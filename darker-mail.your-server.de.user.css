@@ -1,0 +1,172 @@
+@-moz-document domain("mail.your-server.de") {
+body {
+    background-color: #181818;
+    color: #d7d7d7;
+}
+#horde-sidebar {
+    background-color: #181818;
+    color: #d7d7d7;
+}
+#horde-sidebar a {
+    color: #999;
+    font-size: 11pt;
+}
+
+#horde-head {
+    background-color: #181818;
+}
+
+body, input, select, textarea, .inProgress {
+    font-family: Lato, Arial, "DejaVu Sans", sans-serif;
+}
+
+.horde-splitbar-vert {
+    background: none !important;
+    width: 5px;
+}
+
+.horde-buttonbar {
+    background-image: none;
+    background-color: #282828;
+}
+
+.horde-table-header, table.horde-table thead tr, table.horde-table th {
+    background-image: none;
+    background: #333;
+    border-top: 2px solid #222;
+    font-size: 1.2em;
+}
+
+.horde-table-header a, table.horde-table th a {
+    color: #888;
+}
+
+div.vpRow, div.vpRow div {
+    border-bottom: 1px solid #151515;
+}
+
+.vpRowSelected {
+    color: #e00 !important;
+}
+
+
+.msglist {
+    background-color: #222 !important;
+}
+
+.msglist div.vpRow:nth-child(odd) {
+    background-color: #222 !important;
+}
+
+
+.msglist div.vpRow:nth-child(even) {
+    background-color: #252525 !important;
+}
+
+.horde-splitbar-horiz {
+    height: 7px;
+    background-image: none;
+    background-color: #181818;
+    background-position: center -1px;
+}
+
+.vpScroll {
+    background: none;
+}
+
+.vpScrollCursor {
+    background: none;
+    background-color: #666 !important;
+    border-left: 1px solid #444;
+    width: 13px;
+}
+
+.vpScrollDown, .vpScrollUp {
+    border-left: 1px solid #ddd;
+    height: 16px;
+    width: 13px;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+}
+
+#horde-search #horde-search-input, #horde-search .horde-fake-input {
+    width: 200px;
+    margin-top: 6px;
+    background: #222;
+    height: 20px;
+    font-size: 100%;
+    border: 0;
+    float: left;
+}
+
+#horde-logout, #horde-login {
+    margin: 0;
+    width: 45px;
+    height: 45px;
+    background-image: url(/themes/konsoleh/graphics/logout.png);
+    background-repeat: no-repeat;
+    background-position: 15px 10px;
+    background-color: #222;
+    border-left: 1px solid #252525;
+}
+
+.msgHeaders {
+    padding: 10px 6px 10px 4px;
+    background-color: #333;
+    border-bottom: 1px solid #444;
+    max-height: 300px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+a.address {
+    background-color: #333;
+    border: 1px solid #444;
+}
+
+.msgHeaders a {
+    color: #ccc;
+}
+
+.msgwrite {
+    background-color: #181818 !important;
+    color: #d7d7d7;
+    border-bottom: 1px solid #333;
+}
+
+#composeMessage {
+    background-color: #181818;
+    color: #d7d7d7;
+    border: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+textarea:focus {
+    outline: none !important;
+}
+
+input:focus {
+    outline: none !important;
+    background-color: transparent !important;
+}
+
+.hordeACBox {
+    background: #181818 none repeat scroll 0 0;
+    border: 1px solid #333;
+    cursor: default;
+    text-align: left;
+    min-height: 58px;
+    padding: 4px;
+    color: #aaa;
+}
+
+input, select, textarea {
+    border: 1px solid #333;
+    background-color: transparent;
+    color: #ccc;
+}
+
+
+}
