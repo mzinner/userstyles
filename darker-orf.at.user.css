@@ -7,261 +7,261 @@
 @preprocessor   default
 ==/UserStyle== */
 @-moz-document domain("orf.at") {
-/*if hideHeader {*/
-.top-area-wrapper {
-    display: none;
-}
-.network-navigation {
-    margin-bottom: 4px;
-    margin-top: 4px;
-}
-/*}*/
-.wrapper,
-.header,
-.ss,
-.banner,
-.top-area-wrapper,
-.network-navigation,
-.content,
-.ticker-oon-settings,
-.bw-main,
-.bw-button-close,
-.bw-article,
-.bw-view-list,
-.story-lead,
-.shunter,
-.more-to-read-stories-list,
-.more-to-read-item,
-.story-wrapper,
-.ss .envelopes .envelope,
-.networkNavigation {
-    background-color: #262626 !important;
-}
-
-.ticker-ressort-title {
-    background-color: #333 !important;
-}
-
-.page-footer .back-to-front,
-.more-to-read,
-.stripe-text-wrapper,
-.story-wrapper .story-content .stripe,
-.ss .spacerDiv,
-.ss .lastUpdateMessage,
-.ss .storyWrapper,
-.network-navigation-sitemap.active,
-.network-navigation-sitemap-content .sitemap-footer,
-.network-navigation-sitemap-content,
-.ticker .active-item .ticker-story-headline a:focus,
-.ticker-story.active-item .ticker-story-wrapper,
-.ss .story-wrapper.story-blog .blog-shunter-wrapper,
-.ss .story-wrapper.story-blog .blog-lead,
-.ss .story-wrapper.story-blog .blog-content,
-.ss.help .header .headerLogoWrapper,
-.ticker-story-close {
-    background-color: #363636 !important;
-}
-
-.ss .new-envelopes-message.visible,
-.fact {
-    background-color: #3a3a3a !important;
-}
-
-.ss .old-envelopes-message div,
-.ss .story-wrapper.story-blog .show-story-button {
-    background-color: #c0c0c0 !important;
-}
-
-.ss .envelopes .envelope.vip .content .title {
-    background-color: #8a8a8a !important;
-}
-
-.storyWrapper {
-    background: none !important;
-}
-
-.ss.religion {
-    background-color: #262626 !important;
-    background-image: none !important;
-}
-
-.icon,
-.ticker-oon-settings,
-.footer-font-preloader,
-.side-flag,
-.bw-disclaimer {
-    display: none;
-}
-
-.capital {
-    margin-right: 8px;
-}
-
-.back-to-front a,
-.ss.wetter .storyText,
-.ss .storyText h1,
-.bw-title,
-.ticker-ressort-title,
-.bw-view-list,
-.ticker-story-text,
-.ticker-story-headline,
-.ticker-story-wrapper,
-.active-item,
-#active-item,
-.story-lead,
-.shunter,
-.stripe-text-wrapper,
-.more-to-read-stories-list,
-.ticker-story.active-item .ticker-story-headline a,
-.ticker .ticker-story-headline a,
-.story-wrapper,
-.ss #storyText h2 {
-    color: #aaa !important;
-}
-
-.footer-service,
-.page-footer,
-#ss-storyWrapper {
-    background-color: #1c1c1c;
-    border-radius: 10px;
-}
-
-.ss {
-    padding: 0;
-    margin: 0;
-}
-
-.ss .wrapper {
-    margin: 0 auto;
-}
-
-.ss .mapNavigation li a img,
-.ss .sliderNavigation .whiteSpacer,
-.ss .banner,
-.banner {
-    display: none !important;
-}
-.sitebar-banner {
-    display: none !important;
-}
-
-.teaser,
-.text,
-.ss .storybox p.teaser a {
-    color: white !important;
-}
-
-.bulawindow .bw-view-list .bw-article + .bw-article .bw-article-text {
-    padding-top: 0;
-    border-top: 2px solid #666666;
-}
-
-.ss .mapNavigation li {
-
-    background-color: #363636;
-    border-left: 4px solid #363636;
-    border-bottom: 3px solid #363636;
-}
-
-.ss .mapNavigation li div {
-    border: 0px;
-}
-
-.ss.religion .wrapper,
-.ss.religion .wrapperHeader,
-.ss.help .wrapperHeader,
-.ss.help .wrapper {
-    box-shadow: none !important;
-    moz-box-shadow: none !important;
-    webkit-box-shadow: none !important;
-}
-
-.ss.religion .wrapper {
-    background-color: #444 !important;
-}
-
-.ss.religion .wrapperHeader {
-    margin: auto !important;
-}
-
-.ss.religion .header {
-    background-color: #888 !important;
-}
-
-.ss.religion .networkNavigation {
-    background-color: #363636 !important;
-    background-url: none !important;
-}
-
-
-.ss.religion a:link,
-.ss.religion a:visited {
-    color: #69c !important;
-}
-
-
-.ss {
-    color: #ddd;
-}
-
-body.ss.fm4 {
-    color: #ddd;
-}
-
-@media (max-width: 36.865em) {
-    :not(.oon-grid-overflow) > .oon-grid-item:nth-child(2),
-    :not(.oon-grid-overflow) > .oon-grid-item:nth-child(3) {
-        border: none !important;
+    /*if hideHeader {*/
+    .top-area-wrapper {
+        display: none;
     }
-    .oon-grid .oon-grid-item:nth-child(n+4),
-    .oon-grid .oon-grid-overflow .oon-grid-item {
-        margin: 0 !important;
-        background-color: #262626;
+    .network-navigation {
+        margin-bottom: 4px;
+        margin-top: 4px;
     }
-    .oon-grid .oon-grid-item:nth-child(n+4) a .oon-grid-texts-container-mobile .oon-grid-texts-headline h1,
-    .oon-grid .oon-grid-overflow .oon-grid-item a .oon-grid-texts-container-mobile .oon-grid-texts-headline h1 {
-        color: #aaa;
+    /*}*/
+    .wrapper,
+    .header,
+    .ss,
+    .banner,
+    .top-area-wrapper,
+    .network-navigation,
+    .content,
+    .ticker-oon-settings,
+    .bw-main,
+    .bw-button-close,
+    .bw-article,
+    .bw-view-list,
+    .ticker-ressort-title,
+    .story-lead,
+    .shunter,
+    .more-to-read-stories-list,
+    .more-to-read-item,
+    .story-wrapper,
+    .ss .envelopes .envelope,
+    .networkNavigation {
+        background-color: #262626 !important;
     }
-    .oon-grid .oon-grid-item:nth-child(n+4):before,
-    .oon-grid .oon-grid-overflow .oon-grid-item:before,
-    .oon-grid .oon-grid-item:nth-child(n+4):last-child:after,
-    .oon-grid .oon-grid-overflow .oon-grid-item:last-child:after {
-        height: 0px;
-        top: 0px;
-        bottom: 0px;
+
+    .page-footer .back-to-front,
+    .more-to-read,
+    .stripe-text-wrapper,
+    .story-wrapper .story-content .stripe,
+    .ss .spacerDiv,
+    .ss .lastUpdateMessage,
+    .ss .storyWrapper,
+    .network-navigation-sitemap.active,
+    .network-navigation-sitemap-content .sitemap-footer,
+    .network-navigation-sitemap-content,
+    .ticker .active-item .ticker-story-headline a:focus,
+    .ticker-story.active-item .ticker-story-wrapper,
+    .ss .story-wrapper.story-blog .blog-shunter-wrapper,
+    .ss .story-wrapper.story-blog .blog-lead,
+    .ss .story-wrapper.story-blog .blog-content,
+    .ss.help .header .headerLogoWrapper,
+    .ticker-story-close {
+        background-color: #363636 !important;
     }
-    .flag-ticker-mobile .flag-ticker-mobile-content {
-        display: flex;
+
+    .ss .new-envelopes-message.visible,
+    .fact {
+        background-color: #3a3a3a !important;
+    }
+
+    .ss .old-envelopes-message div,
+    .ss .story-wrapper.story-blog .show-story-button {
+        background-color: #c0c0c0 !important;
+    }
+
+    .ss .envelopes .envelope.vip .content .title {
+        background-color: #8a8a8a !important;
+    }
+
+    .storyWrapper {
+        background: none !important;
+    }
+
+    .ss.religion {
+        background-color: #262626 !important;
+        background-image: none !important;
+    }
+
+    .icon,
+    .ticker-oon-settings,
+    .footer-font-preloader,
+    .side-flag,
+    .bw-disclaimer {
+        display: none;
+    }
+
+    .capital {
+        margin-right: 8px;
+    }
+
+    .back-to-front a,
+    .ss.wetter .storyText,
+    .ss .storyText h1,
+    .bw-title,
+    .ticker-ressort-title,
+    .bw-view-list,
+    .ticker-story-text,
+    .ticker-story-headline,
+    .ticker-story-wrapper,
+    .active-item,
+    #active-item,
+    .story-lead,
+    .shunter,
+    .stripe-text-wrapper,
+    .more-to-read-stories-list,
+    .ticker-story.active-item .ticker-story-headline a,
+    .ticker .ticker-story-headline a,
+    .story-wrapper,
+    .ss #storyText h2 {
+        color: #aaa !important;
+    }
+
+    .footer-service,
+    .page-footer,
+    #ss-storyWrapper {
         background-color: #1c1c1c;
+        border-radius: 10px;
     }
-    .oon-grid > :last-child {
-        padding-bottom: 10px;
-    }
-    .flag-ticker-mobile {
+
+    .ss {
+        padding: 0;
         margin: 0;
-        position: relative;
     }
-    .bula-window .bw-article:not(:first-child) .bw-article-text {
-        border-top: 4px solid #444;
+
+    .ss .wrapper {
+        margin: 0 auto;
     }
-    .bw-article-title {
-        color: #aaa;
+
+    .ss .mapNavigation li a img,
+    .ss .sliderNavigation .whiteSpacer,
+    .ss .banner,
+    .banner {
+        display: none !important;
     }
-}
+    .sitebar-banner {
+        display: none !important;
+    }
 
-.page-footer ul.footer-network {
-    background-color: #222;
-}
+    .teaser,
+    .text,
+    .ss .storybox p.teaser a {
+        color: white !important;
+    }
 
-.page-footer ul.footer-network li:not(:last-child) {
-    border-bottom: 3px solid #111;
-}
+    .bulawindow .bw-view-list .bw-article + .bw-article .bw-article-text {
+        padding-top: 0;
+        border-top: 2px solid #666666;
+    }
 
-.ticker-story + .ticker-story:before {
-    content: " ";
-    display: block;
-    margin: 0 10px;
-    height: 3px;
-    background-color: #444;
-}
+    .ss .mapNavigation li {
+
+        background-color: #363636;
+        border-left: 4px solid #363636;
+        border-bottom: 3px solid #363636;
+    }
+
+    .ss .mapNavigation li div {
+        border: 0px;
+    }
+
+    .ss.religion .wrapper,
+    .ss.religion .wrapperHeader,
+    .ss.help .wrapperHeader,
+    .ss.help .wrapper {
+        box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        -webkit-box-shadow: none !important;
+    }
+
+    .ss.religion .wrapper {
+        background-color: #444 !important;
+    }
+
+    .ss.religion .wrapperHeader {
+        margin: auto !important;
+    }
+
+    .ss.religion .header {
+        background-color: #888 !important;
+    }
+
+    .ss.religion .networkNavigation {
+        background-color: #363636 !important;
+        background-image: none !important;
+    }
+
+
+    .ss.religion a:link,
+    .ss.religion a:visited {
+        color: #69c !important;
+    }
+
+
+    .ss {
+        color: #ddd;
+    }
+
+    body.ss.fm4 {
+        color: #ddd;
+    }
+
+    @media (max-width: 36.865em) {
+        :not(.oon-grid-overflow) > .oon-grid-item:nth-child(2),
+        :not(.oon-grid-overflow) > .oon-grid-item:nth-child(3) {
+            border: none !important;
+        }
+        .oon-grid .oon-grid-item:nth-child(n+4),
+        .oon-grid .oon-grid-overflow .oon-grid-item {
+            margin: 0 !important;
+            background-color: #262626;
+        }
+        .oon-grid .oon-grid-item:nth-child(n+4) a .oon-grid-texts-container-mobile .oon-grid-texts-headline h1,
+        .oon-grid .oon-grid-overflow .oon-grid-item a .oon-grid-texts-container-mobile .oon-grid-texts-headline h1 {
+            color: #aaa;
+        }
+        .oon-grid .oon-grid-item:nth-child(n+4):before,
+        .oon-grid .oon-grid-overflow .oon-grid-item:before,
+        .oon-grid .oon-grid-item:nth-child(n+4):last-child:after,
+        .oon-grid .oon-grid-overflow .oon-grid-item:last-child:after {
+            height: 0px;
+            top: 0px;
+            bottom: 0px;
+        }
+        .flag-ticker-mobile .flag-ticker-mobile-content {
+            display: flex;
+            background-color: #1c1c1c;
+        }
+        .oon-grid > :last-child {
+            padding-bottom: 10px;
+        }
+        .flag-ticker-mobile {
+            margin: 0;
+            position: relative;
+        }
+        .bula-window .bw-article:not(:first-child) .bw-article-text {
+            border-top: 4px solid #444;
+        }
+        .bw-article-title {
+            color: #aaa;
+        }
+        .page-footer ul.footer-network {
+            background-color: #222;
+        }
+
+        .page-footer ul.footer-network li:not(:last-child) {
+            border-bottom: 3px solid #111;
+        }
+
+        .ticker-story + .ticker-story:before {
+            content: " ";
+            display: block;
+            margin: 0 10px;
+            height: 3px;
+            background-color: #444;
+        }
+
+        .ticker-ressort-title {
+            background-color: #333 !important;
+        }
+    }
 }
