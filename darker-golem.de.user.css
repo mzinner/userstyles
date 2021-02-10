@@ -7,7 +7,6 @@
 @preprocessor   default
 ==/UserStyle== */
 @-moz-document domain("golem.de") {
-@namespace url(http://www.w3.org/1999/xhtml);
 body, #screen, #comments, #thread-detail, .threads, footer, .contains-drop > UL, .gg_embeddedSubText
 {
     color               : #ddd !important;
