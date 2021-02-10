@@ -6,3 +6,5 @@
 | Darker derstandard.at | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://raw.githubusercontent.com/mzinner/userstyles/master/darker-standard.at.css) |
 | Darker orf.at | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://raw.githubusercontent.com/mzinner/userstyles/master/darker-orf.at.css) |
 | Darker kurier.at | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://raw.githubusercontent.com/mzinner/userstyles/master/darker-kurier.at.css) |
+| Darker newsletter.falter.at | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://raw.githubusercontent.com/mzinner/userstyles/master/darker-newsletter.falter.at.css) |
+
