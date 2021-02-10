@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           Darker Golem.de - 02/10/2021, 10:53:39
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    A darker userstyle
+@author         MikeZ
+@preprocessor   default
+==/UserStyle== */
 @-moz-document domain("golem.de") {
 @namespace url(http://www.w3.org/1999/xhtml);
 body, #screen, #comments, #thread-detail, .threads, footer, .contains-drop > UL, .gg_embeddedSubText
