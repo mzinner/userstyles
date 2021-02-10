@@ -1,0 +1,33 @@
+@-moz-document domain("golem.de") {
+@namespace url(http://www.w3.org/1999/xhtml);
+body, #screen, #comments, #thread-detail, .threads, footer, .contains-drop > UL, .gg_embeddedSubText
+{
+    color               : #ddd !important;
+    background-color    : #222 !important;
+}
+
+h1, h2, h3, h4, strong, .head1, .head2 {
+    color               : #ddd !important;
+}
+
+a, ol.list-articles span {
+    color               : hsl(0,0%,73%) !important;
+}
+
+#header, #superbanner {
+    border-color        : #333333 !important;
+}
+
+/* Suche */
+#tabs a, #tabs .active h1 {
+    color               : #666666 !important;
+}
+
+#grandwrapper {
+    border-width: 0px;
+}
+
+.g4>.list-tickers h3>a span, .g4>.list-tickers h3>a:visited {
+    color               : #eee !important;
+}
+}
