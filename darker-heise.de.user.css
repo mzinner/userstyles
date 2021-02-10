@@ -7,7 +7,6 @@
 @preprocessor   default
 ==/UserStyle== */
 @-moz-document domain("www.heise.de") {
-@namespace url(http://www.w3.org/1999/xhtml);
 * {
     color: #ccc!important;
     background-color: #222!important;
