@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           Darker newsletter.falter.at - 02/10/2021, 10:53:39
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    A darker userstyle
+@author         MikeZ
+@preprocessor   default
+==/UserStyle== */
 @-moz-document domain("newsletter.falter.at") {
 body,
 li {
