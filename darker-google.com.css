@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           Darker Google.com - 02/10/2021, 10:53:39
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    A darker userstyle
+@author         MikeZ
+@preprocessor   default
+==/UserStyle== */
 @-moz-document regexp("https?://(www|encrypted|images|translate|accounts|books|photos).google.(com|([a-z]{2}))(.[a-z]{2})?/(?!mobile|flights|intl|alerts|finance|calendar|nexus|contacts|services|voice|business|maps|dashboard|settings|android|adsense|analytics|doodles|chrome|fonts|patents|translate_p|recaptcha).*") {
 /*** Main page ***/
 body, html {
