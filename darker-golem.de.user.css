@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Darker Golem.de - 02/10/2021, 10:53:39
 @namespace      github.com/openstyles/stylus
-@version        1.0.2
+@version        1.0.3
 @description    A darker userstyle
 @author         MikeZ
 @preprocessor   default
@@ -35,6 +35,9 @@ a, ol.list-articles span {
 }
 
 .g4>.list-tickers h3>a span, .g4>.list-tickers h3>a:visited {
+    color               : #eee !important;
+}
+.list-ticker h3>a span {
     color               : #eee !important;
 }
 }
