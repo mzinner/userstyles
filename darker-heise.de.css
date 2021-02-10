@@ -1,0 +1,60 @@
+/* ==UserStyle==
+@name           Darker Golem.de - 02/10/2021, 10:53:39
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    A darker userstyle
+@author         MikeZ
+@preprocessor   default
+==/UserStyle== */
+@-moz-document domain("www.heise.de") {
+@namespace url(http://www.w3.org/1999/xhtml);
+* {
+    color: #ccc!important;
+    background-color: #222!important;
+    background-image: none!important;
+}
+#container_content {
+    top: 10px!important;
+}
+a {
+    color: #ddd!important;
+    text-decoration: none!important;
+}
+a:hover {
+    text-decoration: none!important;
+}
+
+#mitte_rechts,
+#logo_bereich,
+#breadcrumb,
+#logo,
+#login_suche,
+.titel,
+#bannerzone,
+.trennlinie_6px,
+.navi_top_logo,
+#suchfeld,
+#navi_login,
+#extra_spalte_rechts {
+    visibility: hidden!important;
+    height: 0px!important;
+    width: 0px!important;
+    display: none!important;
+}
+#mitte_links {
+    width: 100%!important;
+}
+#container_content,
+#container {
+    margin-top: 0px!important;
+    padding-top: 0px!important;
+}
+div.anriss_mit_bild_links p a,
+div.position_1 p a,
+div.position_2 p a,
+div.position_3 p a,
+div.erste_zeile a,
+div.zweite_zeile a {
+    text-decoration: none!important;
+}
+}
