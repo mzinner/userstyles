@@ -1,0 +1,16 @@
+@-moz-document domain("newsletter.falter.at") {
+body,
+li {
+    background-color: #333 !important;
+    color: #ddd;
+}
+
+div {
+    background-color: #333 !important;
+    color: #ddd;
+}
+
+.footer {
+    color: #888 !important;
+}
+}
