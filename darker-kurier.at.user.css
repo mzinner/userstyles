@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Darker Kurier.at - 02/10/2021, 10:53:39
 @namespace      github.com/openstyles/stylus
-@version        1.0.2
+@version        1.0.3
 @description    A darker userstyle
 @author         MikeZ
 @preprocessor   default
@@ -79,5 +79,11 @@ body {
 
 #cfs-paywall-container {
     display: none;
+}
+.article .plusContent>:not(app-no-consent) {
+    display: block;
+}
+.article .plusContent>paragraph:first-of-type:before {
+    background: none;
 }
 }
