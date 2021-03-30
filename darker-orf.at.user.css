@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Darker Orf.at - 02/10/2021, 10:53:39
 @namespace      github.com/openstyles/stylus
-@version        1.0.6
+@version        1.0.7
 @description    A darker userstyle
 @author         MikeZ
 @preprocessor   default
@@ -220,6 +220,15 @@
     
     .videolane-scroll-indicator-container .videolane-scroll-indicator {
         background-color: #363636 !important;
+    }
+    
+    .videolane-player-close {
+        background-color: #111 !important;
+        color: #999 !important;
+    }
+    
+    .videolane-player-textbox-container {
+        background-color: #151515 !important;
     }
     
     @media (max-width: 36.865em) {
