@@ -7,6 +7,52 @@
 @preprocessor   default
 ==/UserStyle== */
 
+
+.home--blak .home__section-one__search, .home--nite .home__section-one__search {
+    background: #151515;
+}
+
+.home--blak .home__section-one__search-logo, .home--nite .home__section-one__search-logo {
+    filter: invert(48%) sepia(79%) saturate(0%) hue-rotate(86deg) brightness(90%) contrast(119%);
+}
+
+.search-form-home--blak .search-form-home__form, .search-form-home--nite .search-form-home__form {
+    background: #181818;
+    box-shadow: none;
+    border: 1px solid #888;
+}
+
+.home--blak .headline a, .home--blak .subtitle, .home--blak .subtitle a, .home--nite .headline a, .home--nite .subtitle, .home--nite .subtitle a {
+    color: #777;
+}
+
+.search-form-home__q::placeholder {
+    color: #555 !important;
+}
+
+.privacy-please-menu-home--blak .privacy-please-menu-home__button .privacy-please-text, .privacy-please-menu-home--nite .privacy-please-menu-home__button .privacy-please-text {
+    color: #888;
+    filter: none;
+}
+
+.privacy-please-menu-home--blak .privacy-please-menu-home__button .chevron-container, .privacy-please-menu-home--nite .privacy-please-menu-home__button .chevron-container {
+    background: #333;
+}
+
+.footer-home-above-fold--blak, .footer-home-above-fold--nite {
+    background: #262626;
+}
+
+html.startpage-html--blak body .suggestPanel, html.startpage-html--nite body .suggestPanel {
+    color: #ccc;
+    background-color: #111;
+    border: 1px solid #333;
+}
+
+.footer-home-above-fold--blak .nav-link a, .footer-home-above-fold--nite .nav-link a {
+    color: #888;
+}
+
 .header--blak, .header--nite {
     background: #141414;
 }
