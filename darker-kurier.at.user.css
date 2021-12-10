@@ -92,4 +92,17 @@ body {
 .article .plusContent>paragraph:first-of-type:not(.visible):before {
     background: none !important;
 }
+    
+.article .plusContent app-paywall::before {
+    display: none;
+}
+    
+.pn-offer-grid__body {
+    display: none;
+}
+    
+.article .plusContent #cfs-paywall-container, .article .plusContent>#plus_inline_message, .article .plusContent>.visible, .article .plusContent>adincontent, .article .plusContent>newslettersignup, .article .plusContent>paragraph:first-of-type {
+    display: none;
+}
+    
 }
