@@ -1,0 +1,22 @@
+/* ==UserStyle==
+@name           cloud.oracle.com cleanup
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A simple cleanup of the OCI console
+@author         MikeZ
+==/UserStyle== */
+
+@-moz-document domain("cloud.oracle.com") {
+    .oci-banner-list {
+        display: none;
+    }
+    .nav-menu-button .hamburger span, .nav-menu-button__mega-menu .hamburger span {
+        background-color: #888;
+    }
+    #console-quickstarts,
+    [data-test-id="start_exploring-container"],
+    .right-rail-shifted,
+    .life-raft-support{
+        display: none;
+    }
+}
