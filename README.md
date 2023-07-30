@@ -14,3 +14,4 @@
 | Darker google.com | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/mzinner/userstyles/raw/main/darker-google.com.user.css) |
 | Darker mail.your-server.de | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/mzinner/userstyles/raw/main/darker-mail.your-server.de.user.css) |
 | Darker Startpage Black Theme | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/mzinner/userstyles/raw/main/darker-startpage.user.css) |
+| OCI Console Cleanup | [@mzinner](https://github.com/mzinner) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/mzinner/userstyles/raw/main/cloud.oracle.com.user.css) |
