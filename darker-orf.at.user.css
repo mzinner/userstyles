@@ -230,6 +230,10 @@
     .videolane-player-textbox-container {
         background-color: #151515 !important;
     }
+
+    .news-sport-videos, .news-sport-audios {
+        display: none !important;
+    }
     
     @media (max-width: 36.865em) {
         :not(.oon-grid-overflow) > .oon-grid-item:nth-child(2),
